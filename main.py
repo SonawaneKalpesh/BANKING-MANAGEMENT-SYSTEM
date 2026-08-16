@@ -118,7 +118,7 @@ except Exception as e:
 
 try:
     while True:
-        print(" BANLING MANAGEMENT SYSTEM")
+        print(" BANKING MANAGEMENT SYSTEM")
         print("1.Register Customer")
         print("2.Create Account")
         print("3. Deposit Money")
