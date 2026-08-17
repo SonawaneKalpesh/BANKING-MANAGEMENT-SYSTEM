@@ -1,4 +1,6 @@
 from services.bank import Bank
+from exceptions.banking_exceptions import *
+from models.account import Account
 
 def register():
     name = input("Enter customer name: ")
